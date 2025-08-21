@@ -1,9 +1,0 @@
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\Attraction.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\CitylistAdapter.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\MainActivity.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\MapsActivity.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\SpacesItemDecoration.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\AttrDetailActivity.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\City.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\AttrListAdapter.kt
-C:\Users\Owner\AndroidStudioProjects\Travel\app\src\main\java\com\example\travelapp\AttrListFragment.kt
