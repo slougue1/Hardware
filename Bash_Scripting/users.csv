@@ -1,0 +1,11 @@
+username, fullname      , password  , home          , group
+jdoe    , John Doe      , P@ssw0rd  , /home/jdoe    , users
+asmith  , Alice Smith   , S3cur3Pass, /home/asmith  , users
+bjohnson, Bob Johnson   , Qwerty123 , /home/bjohnson, users
+cmiller , Charlie Miller, Pass1234  , /home/cmiller , users
+dclark  , David Clark   , StrongPass, /home/dclark  , users
+eharris , Emily Harris  , MyP@ssword, /home/eharris , users
+fwhite  , Frank White   , WhitePass , /home/fwhite  , users
+ggreen  , Grace Green   , Green123  , /home/ggreen  , users
+hthomas , Henry Thomas  , Thomas456 , /home/hthomas , users
+ijames  , Isla James    , James789  , /home/ijames  , users
