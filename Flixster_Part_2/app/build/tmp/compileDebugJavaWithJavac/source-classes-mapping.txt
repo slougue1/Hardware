@@ -1,0 +1,17 @@
+com/example/flixster/models/Movie.java
+ com.example.flixster.models.Movie
+com/example/flixster/adapters/MovieAdapter.java
+ com.example.flixster.adapters.MovieAdapter
+ com.example.flixster.adapters.MovieAdapter$ViewHolder1
+ com.example.flixster.adapters.MovieAdapter$ViewHolder1$1
+ com.example.flixster.adapters.MovieAdapter$ViewHolder2
+ com.example.flixster.adapters.MovieAdapter$ViewHolder2$1
+com/example/flixster/DetailActivity.java
+ com.example.flixster.DetailActivity
+ com.example.flixster.DetailActivity$1
+ com.example.flixster.DetailActivity$2
+com/example/flixster/BuildConfig.java
+ com.example.flixster.BuildConfig
+com/example/flixster/MainActivity.java
+ com.example.flixster.MainActivity
+ com.example.flixster.MainActivity$1

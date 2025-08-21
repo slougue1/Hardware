@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.travelapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/activity_attr_list.xml",
+        "source": "com.example.travelapp-main-36:/layout/activity_attr_list.xml"
+    },
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/attr_detail.xml",
+        "source": "com.example.travelapp-main-36:/layout/attr_detail.xml"
+    },
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/city_item.xml",
+        "source": "com.example.travelapp-main-36:/layout/city_item.xml"
+    },
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/attr_item.xml",
+        "source": "com.example.travelapp-main-36:/layout/attr_item.xml"
+    },
+    {
+        "merged": "com.example.travelapp-mergeDebugResources-33:/layout/activity_maps.xml",
+        "source": "com.example.travelapp-main-36:/layout/activity_maps.xml"
+    }
+]
